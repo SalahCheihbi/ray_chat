@@ -1,6 +1,11 @@
-# practice
+A new Chatapp project with Firebase
 
-A new Flutter project.
+android / ios / web:
+
+You practice Firebase and Flutter with simple application .
+
+Change the firebaseConfig of your console !!! 
+
 
 ## Getting Started
 
